@@ -1,0 +1,100 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  max-width: 600px; /* Reduced the max-width to 600px */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Ensure the card doesn't exceed the container's width */
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input, select, button {
+  width: 100%; /* Form elements take full width of the card */
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.range-inputs input {
+  width: 48%;
+  display: inline-block;
+  margin-right: 4%;
+}
+
+.range-inputs input:last-child {
+  margin-right: 0;
+}
+
+.submit-btn {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #218838;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+.result-item {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.result-item:last-child {
+  border-bottom: none;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.875rem;
+  margin-top: 5px;
+}
+
+.risk-result {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* Error style for form input fields */
+.error {
+  border-color: red;
+}

@@ -1,0 +1,79 @@
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T03:31:30.122Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T03:31:30.149Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:32:04.942Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:33:24.621Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:33:51.939Z"}
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T03:37:59.890Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T03:37:59.909Z"}
+{"count":1,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:38:19.364Z"}
+{"error":"Cast to number failed for value \"/Presence/i\" (type RegExp) at path \"Cholesterol\" for model \"Patient\"","level":"error","message":"Error in Quick Search","timestamp":"2024-12-07T03:38:29.115Z"}
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T03:40:10.518Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T03:40:10.527Z"}
+{"count":1426,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T03:40:17.062Z"}
+{"count":2,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T03:40:27.512Z"}
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T03:50:09.553Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T03:50:09.576Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:50:17.302Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:50:18.377Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:50:33.159Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:50:34.427Z"}
+{"error":"\"cholesterolMin\" must be a number","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T03:50:44.139Z"}
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T03:51:48.735Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T03:51:48.746Z"}
+{"error":"\"cholesterolMin\" must be a number","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T03:51:52.773Z"}
+{"error":"\"cholesterolMin\" must be a number","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T03:51:53.786Z"}
+{"error":"\"cholesterolMin\" must be a number","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T03:51:54.504Z"}
+{"error":"\"cholesterolMin\" must be a number","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T03:52:03.523Z"}
+{"count":2,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:53:47.626Z"}
+{"count":2,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:54:15.206Z"}
+{"count":2,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T03:54:28.595Z"}
+{"count":0,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T03:54:39.078Z"}
+{"count":1567,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T03:55:33.267Z"}
+{"count":1567,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T03:55:45.026Z"}
+{"count":3,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T03:55:57.627Z"}
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T04:22:08.888Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T04:22:08.905Z"}
+{"count":1,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:24:03.559Z"}
+{"count":1,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:24:14.384Z"}
+{"count":1567,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T04:24:19.815Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:25:27.369Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:25:52.835Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:26:02.414Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:26:16.746Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:26:23.684Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:26:28.726Z"}
+{"count":2,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:26:37.177Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:39:53.228Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:39:54.813Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:39:55.446Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:02.521Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:03.246Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:03.830Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:04.146Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:04.327Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:04.514Z"}
+{"count":1567,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T04:40:10.761Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:12.715Z"}
+{"error":"\"age\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:40:17.790Z"}
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T04:40:45.797Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T04:40:45.813Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:40:54.791Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:40:56.422Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:40:57.122Z"}
+{"count":68,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:41:13.434Z"}
+{"count":1567,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T04:51:37.401Z"}
+{"error":"\"ageMin\" is required","level":"warn","message":"Validation failed for Advanced Search","timestamp":"2024-12-07T04:51:45.052Z"}
+{"count":618,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:51:52.261Z"}
+{"count":0,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:52:23.661Z"}
+{"count":4,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:52:30.521Z"}
+{"count":10,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:55:40.296Z"}
+{"count":10,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:55:45.664Z"}
+{"count":949,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T04:58:16.889Z"}
+{"count":1567,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T05:03:15.698Z"}
+{"count":68,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T05:03:26.007Z"}
+{"count":10,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T05:12:36.731Z"}
+{"count":618,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T05:12:47.108Z"}
+{"level":"info","message":"Server is running on http://localhost:4000","timestamp":"2024-12-07T06:44:25.296Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-07T06:44:25.311Z"}
+{"count":28,"level":"info","message":"Advanced Search successful","timestamp":"2024-12-07T06:44:58.197Z"}
+{"count":3134,"level":"info","message":"Quick Search successful","timestamp":"2024-12-07T06:45:32.487Z"}
