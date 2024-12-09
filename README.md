@@ -17,5 +17,7 @@ node server.js
 Frontend setup
 
 cs Frontend
+
 npm i
+
 npm start
